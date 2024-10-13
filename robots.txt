@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://herystat.github.io/sitemap.html.gz
+Sitemap: https://herystat.github.io/app/sitemap.html.gz
+Sitemap: https://herystat.github.io/assets/sitemap.html.gz
+Sitemap: https://herystat.github.io/css/sitemap.html.gz
+Sitemap: https://herystat.github.io/includes/sitemap.html.gz
+Sitemap: https://herystat.github.io/item/sitemap.html.gz
+Sitemap: https://herystat.github.io/src/sitemap.html.gz
